@@ -1,0 +1,20 @@
+
+Q1.Git is a popular version control system.
+Q2.Version control means tracking of code and managaing the changes to software code.
+Q3.Git hub is a cloud based server that is used to track,store and maintain the code.
+Q4.Some popular git hosting services are:
+  ->GitBucket
+  ->GitHib
+  ->GitLab
+  ->PerForce
+  ->BeanStock
+Q5.Different types of verssion control systems are:
+   ->Centralized Version Control System
+   ->Distributed Version Control System
+Q6.Benefits of using Git..
+   ->tracks our code
+   ->prove security to code
+   ->It makes it easy to contribute to your open source projects.
+   ->It provides integration options.
+Q7.Git Repository is a collection of files which tacks and save history of all the changes made to a file.
+Q8.By using $git init command we can initialize the repository in git.
